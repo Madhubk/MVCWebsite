@@ -22,7 +22,7 @@ namespace WebApplication.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Welcome to 20cube data ";
+            ViewBag.Message = "Welcome to 20cube data";
 
             return View();
         }
