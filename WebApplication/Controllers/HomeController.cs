@@ -15,7 +15,7 @@ namespace WebApplication.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page test.";
+            ViewBag.Message = "Test user";
 
             return View();
         }
