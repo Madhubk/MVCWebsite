@@ -15,14 +15,14 @@ namespace WebApplication.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description Madhu  application page test.";
+            ViewBag.Message = "Your application description page test.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Welcome job accounting";
+            ViewBag.Message = "job accounting created by Madhu";
 
             return View();
         }
