@@ -30,7 +30,7 @@ namespace WebApplication.Controllers
         {
             ViewBag.Message = "Welcome to 20cube";
 
-            return View();
+            return View("Logindata");
         }
         
     }
