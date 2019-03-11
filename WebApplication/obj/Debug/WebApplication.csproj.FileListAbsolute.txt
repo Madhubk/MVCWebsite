@@ -107,3 +107,4 @@ D:\Newfolderjen\MVCWebsite\WebApplication\bin\Microsoft.Owin.Security.MicrosoftA
 D:\Newfolderjen\MVCWebsite\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
 D:\Newfolderjen\MVCWebsite\WebApplication\obj\Debug\WebApplication.dll
 D:\Newfolderjen\MVCWebsite\WebApplication\obj\Debug\WebApplication.pdb
+D:\Newfolderjen\MVCWebsite\WebApplication\bin\WebApplication.dll.config
