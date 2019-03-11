@@ -26,5 +26,12 @@ namespace WebApplication.Controllers
 
             return View();
         }
+        public ActionResult Logindata()
+        {
+            ViewBag.Message = "Welcome to 20cube";
+
+            return View();
+        }
+        
     }
 }
