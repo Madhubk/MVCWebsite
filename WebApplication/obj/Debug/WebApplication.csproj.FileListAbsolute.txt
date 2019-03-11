@@ -53,7 +53,6 @@ E:\20cubepoc\WebApplication\WebApplication\bin\Microsoft.Owin.Security.Microsoft
 E:\20cubepoc\WebApplication\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
 E:\20cubepoc\WebApplication\WebApplication\obj\Debug\WebApplication.dll
 E:\20cubepoc\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
-D:\Newfolderjen\MVCWebsite\WebApplication\bin\WebApplication.dll.config
 D:\Newfolderjen\MVCWebsite\WebApplication\bin\WebApplication.dll
 D:\Newfolderjen\MVCWebsite\WebApplication\bin\WebApplication.pdb
 D:\Newfolderjen\MVCWebsite\WebApplication\bin\Antlr3.Runtime.dll
