@@ -15,7 +15,7 @@ namespace WebApplication.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Madhu user and job Accounting warehouse";
+            ViewBag.Message = "Madhu user and job Accounting warehouse changes";
 
             return View();
         }
