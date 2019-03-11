@@ -15,7 +15,7 @@ namespace WebApplication.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Madhu is a good boy";
+            ViewBag.Message = "New age Digital Logistics company providing services in Freight Forwarding,Custom Clearance and Warehousing.";
 
             return View();
         }
