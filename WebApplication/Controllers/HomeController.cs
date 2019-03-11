@@ -28,9 +28,8 @@ namespace WebApplication.Controllers
         }
         public ActionResult Logindata()
         {
-            ViewBag.Message = "Welcome to 20cube";
-
-            return View("Logindata");
+        ViewBag.Message = "Welcome to 20cube";
+         return View("Logindata");
         }
         
     }
